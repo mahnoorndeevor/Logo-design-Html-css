@@ -1,0 +1,10 @@
+h1{
+    font-family: "monospace";
+    text-align: center;
+    text-decoration-color: blueviolet;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+}
